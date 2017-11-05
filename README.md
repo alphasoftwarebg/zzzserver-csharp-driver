@@ -8,8 +8,8 @@ C# driver for **ZZZ Base** through ZZZ Server
 **sample usage:**
 ```csharp
 ZZZProgram(
-	"localhost",								// ZZZ Server host
-	3333,										// ZZZ Server port
+	"localhost",					// ZZZ Server host
+	3333,						// ZZZ Server port
 	"#[cout;Hello World from ZZZServer!]")		// ZZZ Base sample program
 ```
 
